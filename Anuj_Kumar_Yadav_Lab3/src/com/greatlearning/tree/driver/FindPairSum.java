@@ -19,7 +19,7 @@ public class FindPairSum {
            /     \ 
           20      60 
          /  \    /   \
-        10   10  50   70
+        10   30  50   70
 
         */
         //insert data into BST
